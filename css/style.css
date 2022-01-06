@@ -25,3 +25,10 @@ body {
 	background-color: black;
 	color: white;
 }
+
+.chevron-up {
+	color: red;
+	position: fixed;
+	bottom: 0;
+	left: 50%;
+}
